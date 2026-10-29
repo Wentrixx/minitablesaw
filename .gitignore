@@ -1,0 +1,12 @@
+# Generated firmware and desktop build output
+build/
+debug_ui/build/
+managed_components/
+sdkconfig.old
+
+# Local editor settings and temporary files
+.vscode/
+.idea/
+*.log
+__pycache__/
+*.pyc
